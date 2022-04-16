@@ -1,8 +1,8 @@
 <Bindings>
-    <Binding name="PALLYPOWER_TOGGLE" header="PALLYPOWER" CATEGORY="ADDONS">
-        PallyPower_BarToggle();
-    </Binding>
-    <Binding name="PALLYPOWER_REPORT" CATEGORY="ADDONS">
-        PallyPower_Report();
-    </Binding>
+	<Binding name="AUTOKEY1" category="PALLYPOWER_KEYCAT">
+		PallyPower:AutoBuff("PallyPowerAuto", "Hotkey1")
+	</Binding>
+	<Binding name="AUTOKEY2" category="PALLYPOWER_KEYCAT">
+		PallyPower:AutoBuff("PallyPowerAuto", "Hotkey2")
+	</Binding>
 </Bindings>

@@ -1,4 +1,4 @@
-## Interface: 20504
+## Interface: 11403
 ## Author: Aznamir, Dyaxler, Es
 ## Title: PallyPower Classic
 ## Version: v1.4.4-classic
@@ -31,4 +31,4 @@ locale\zhTW.lua
 PallyPower.lua
 PallyPowerValues.lua
 PallyPowerOptions.lua
-PallyPower_TBC.xml
+PallyPower_Vanilla.xml
